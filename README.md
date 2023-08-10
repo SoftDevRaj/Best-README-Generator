@@ -1,9 +1,9 @@
-# README Generator
+# ReadMe Generator
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-Create a readme file quickly 
+Create a readme file quickly
 
 ## Table of Contents
   - [Installation](#installation)
@@ -26,7 +26,7 @@ This project is licensed under the MIT license.
 Raj will do everything
 
 ## Tests
-Run Node Index.JS
+node index.js
 
 ## Questions
 For any questions, please contact me on [GitHub](https://www.github.com/softdevRaj) or email me at [SoftDevRaj77@gmail.com](mailto:SoftDevRaj77@gmail.com).

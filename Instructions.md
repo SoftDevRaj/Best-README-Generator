@@ -23,3 +23,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 LINK TO VIDEO OF ME CREATING A README FILE: https://youtu.be/DqmNYi6nKzg 
+
+Screenshot of sample README file:
+
+![Alt text](image.png)
